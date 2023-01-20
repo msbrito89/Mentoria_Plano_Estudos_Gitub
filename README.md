@@ -19,7 +19,7 @@ __*Meta de cursos*__
 3. Dominando IDEs com Java - [acesse o curso](https://web.dio.me/course/dominando-ides-java/learning/b0f1ae39-6af7-4a2c-8fc2-c73ae8463c84)
 
 Meta para Janeiro:
-- [X] Fazer o curso 1
+- [ ] Fazer o curso 1
 - [ ] Fazer o curso 2
 
 Task para continuar o aprimoramento:
